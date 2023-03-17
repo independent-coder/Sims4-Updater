@@ -5,7 +5,12 @@ It update sims4 to 1.96.365.1030 + 63 DLCs
 
 
 # why i do it ?
-I do it because the official site are deleted.
+I just whant to help us.
+
+this is the offical website
+
+https://sims.tarac.nl/the-sims-4/the-sims-4-free-downloads/add-pirated-dlcs-to-your-legit-the-sims-4-game/
+
 And it's Anadius are doing this
 ------------------------------------------------------
 # Before install you need to install EA DLC Unlocker v2
